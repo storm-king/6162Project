@@ -19,7 +19,7 @@ Governmental bodies have attempted to establish a multitude of policies to tackl
 
 
 ## Research Question:
-With the differences in opinion across the country as well as the changes in guidelines from experts on the matter we are interested in seeing if the requirement to wear masks results in significant reductions in the occurrence of cases testing positive for COVID-19. 
+With the differences in opinion across the country as well as the changes in guidelines from experts on the matter we are interested in seeing if the requirement to wear masks results in significant reductions in the occurrence of cases testing positive for COVID-19. We are going to specifically look at Arkansas, Connecticut, Georgia, New Jersey, North Carolina, South Carolina, and Virginia and find how the growth of positive cases changes before and after mask mandates. 
 
 
 ## Relevant Domain Information:
