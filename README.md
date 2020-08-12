@@ -1,4 +1,4 @@
-# 6162Project
+# Covid-19 Data Analytics: Do Mask Mandates Affect Positive Test Rates?
 The repository regarding the project for DSBA 6162 at UNC Charlotte during Summer 2020
 
 
